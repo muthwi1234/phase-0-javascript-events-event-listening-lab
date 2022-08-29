@@ -24,8 +24,8 @@ element we want to add the listener to, and passing it two arguments:
 
 Open up `index.html` in the browser. When you click in the `<input>` area,
 nothing happens. Let's set up some _event handling_. Specifically, let's add an
-event listener for the `click` event on the `input#input` element in
-`index.html`.
+event listener for the ` event on the `input#input` element in
+`index.html`.click`
 
 Try out the following in the Chrome DevTools console:
 
